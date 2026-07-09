@@ -1,0 +1,8 @@
+interface:
+  display_name: "每周经营简报"
+  short_description: "根据部门日报生成陆观澜周度经营简报"
+  brand_color: "#2563EB"
+  default_prompt: "Use $weekly-business-brief to generate a weekly operating brief from company daily-report Markdown."
+
+policy:
+  allow_implicit_invocation: true
