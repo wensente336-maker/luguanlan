@@ -1,0 +1,6 @@
+[submodule "weekly-business-brief"]
+	path = weekly-business-brief
+	url = https://github.com/wensente336-maker/weekly-business-brief.git
+[submodule "mckinsey-annual-plan"]
+	path = mckinsey-annual-plan
+	url = https://github.com/wensente336-maker/mckinsey-annual-plan.git
